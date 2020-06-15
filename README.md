@@ -46,9 +46,12 @@ Lo que se hace para clasificar es escencialmente replicar la metodología del pa
 
 ## Videos
 [Primera etapa funcionando](https://youtu.be/b-e9ZDQvpNs)
+
 [Segunda y tercera etapa funcionando conjuntamente](https://youtu.be/b-e9ZDQvpNs)
+
 [Prueba final](https://youtu.be/b-e9ZDQvpNs)
 
 # Referencias
 [Librería scikit-learn](https://scikit-learn.org/stable/index.html)
+
 [Coin Identification Using Neural Networks - Adnan Khashman, Boran Sekeroglu, Kamil Dimililer](https://pdfs.semanticscholar.org/c872/97c158b1e0d4af8889a25e6a06d6305134d1.pdf) 
