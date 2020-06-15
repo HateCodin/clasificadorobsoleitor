@@ -13,6 +13,9 @@ Usando la vieja y confiable fuente de inspiración (plagio) de Youtube, se copia
 ![alt text](imgs/Etapa2.jpg "Segunda etapa")
 ![alt text](imgs/Rampa.jpg "Tercera etapa")
 
+<i class="fa fa-youtube-play youtube" aria-hidden="true"></i>
+[Primera etapa funcionando](https://youtu.be/b-e9ZDQvpNs)
+
 ### Electrónica
 
 	- Raspberry Pi 3
